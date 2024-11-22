@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: flask-container
-        image: jahannavi/pythondevopsproject:latest
+        image: jahannavi/pythondevopsproject1:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 5500
